@@ -1,2 +1,2 @@
 # SnakeGame
-Love2D Snake Game
+Simple Snake Game made with Love2D
